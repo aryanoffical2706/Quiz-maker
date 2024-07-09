@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/aryanoffical2706/Quiz-maker.git
+[submodule "fontend"]
+	path = fontend
+	url = https://github.com/aryanoffical2706/Quiz-maker.git
